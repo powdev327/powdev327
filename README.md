@@ -86,10 +86,10 @@
 
 </td></tr></table>
 
-<b>## 📫 Connect with Me</b>
+## 📫 Connect with Me
 
-**Telegram: <a href="https://t.me/prince_lion97">Telegram: @prince_lion97</a>
-**Mail: <a href="mailto:powdev32747@gmail.com">Telegram: @prince_lion97</a>
+**Telegram: <a href="https://t.me/prince_lion97">Telegram: @prince_lion97</a><br>
+**Mail: <a href="mailto:powdev32747@gmail.com">Telegram: @prince_lion97</a><br>
 **GitHub: [powdev327](https://github.com/powdev327)
 
 ---
