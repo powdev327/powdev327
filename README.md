@@ -20,8 +20,8 @@
 - 🏆 Always eager to learn new tech, streamline workflows, and tackle tough challenges.
 
 ## 🖥️ Skills & Tech Stack
-- **Frontend:** React, SASS/SCSS, Bootstrap, Framer Motion
-- **Backend:** Node.js, REST APIs
+- **Frontend:** React, SASS/SCSS, Bootstrap, Framer Motion, Next.js, Three.js, Angular
+- **Backend:** Node.js, REST APIs, Express, n8n, Zapier, Make.com
 - **DevOps:** GitHub Actions, Webpack, Docker
 - **Tooling:** ESLint, Prettier, React Testing Library
 
