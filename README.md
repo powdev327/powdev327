@@ -5,7 +5,6 @@
   <br>
   <a href="https://github.com/powdev327/About-Me"><img src="https://img.shields.io/badge/About--Me-Portfolio-blue?logo=github" alt="About-Me Portfolio"></a>
   <br>
-  <a href="https://t.me/prince_lion97">Telegram: @prince_lion97</a>
 </p>
 <div align="center">
   <img style="width:100%" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
@@ -87,11 +86,11 @@
 
 </td></tr></table>
 
-## 📫 Connect with Me
+<b>## 📫 Connect with Me</b>
 
-<p>powdev32747@gmail.com</p>
-- **Telegram:** [@prince_lion97](https://t.me/prince_lion97)
-- **GitHub:** [powdev327](https://github.com/powdev327)
+**Telegram: <a href="https://t.me/prince_lion97">Telegram: @prince_lion97</a>
+**Mail: <a href="mailto:powdev32747@gmail.com">Telegram: @prince_lion97</a>
+**GitHub: [powdev327](https://github.com/powdev327)
 
 ---
 
