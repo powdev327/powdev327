@@ -87,11 +87,9 @@
 </td></tr></table>
 
 ## 📫 Connect with Me
-
+<div>
 **Telegram: <a href="https://t.me/prince_lion97">Telegram: @prince_lion97</a><br>
 **Mail: <a href="mailto:powdev32747@gmail.com">Telegram: @prince_lion97</a><br>
 **GitHub: [powdev327](https://github.com/powdev327)
-
+</div>
 ---
-
-Thanks for stopping by! ⭐️
