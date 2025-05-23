@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm PowerDev 👋</h1>
 
 <div align="center" gap="10" display="inline">
-  /* <a href="https://github.com/powdev327">
+<!--   <a href="https://github.com/powdev327">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;">
-  </a> */
+  </a>  -->
   
   <a href="mailto:powdev32747@email.com" title="Send me an email" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/email-%23333.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;">
