@@ -24,11 +24,7 @@
 </div>
 ---
 
-## 🚀 About Me
-- 🌍 Passionate Senior Web Developer with hands-on experience in frontend, backend, and devops.
-- 🛠️ I love building interactive, scalable, and high-performance web applications.
-- 🏆 Always eager to learn new tech, streamline workflows, and tackle tough challenges.
-  
+
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="250px" height="200px" align="right"/>
 
 ## 🖥️ Skills & Tech Stack
@@ -85,14 +81,58 @@
 
 </td></tr></table>  
 
+<table><tr><td valign="top" width="33%">
+
+### 🛒 CMS & E-Commerce
+
+  <div align="center">  
+    <img src="https://github.com/WordPress.png?size=40" width="48" height="48" alt="WordPress" />
+    <img src="https://github.com/Shopify.png?size=40" width="48" height="48" alt="Shopify" />
+    <img src="https://github.com/woocommerce.png?size=40" width="48" height="48" alt="WooCommerce" />
+    <img src="https://github.com/joomla.png?size=40" width="48" height="48" alt="Joomla" />
+    <img src="https://github.com/strapi.png?size=40" width="48" height="48" alt="Strapi" />
+    <img src="https://github.com/magento.png?size=40" width="48" height="48" alt="Magento" />
+    <img src="https://github.com/bigcommerce.png?size=40" width="48" height="48" alt="BigCommerce" />
+  </div>
+
+</td><td valign="top" width="33%">
+
+### 🤖 AI & Automation
+
+  <div align="center">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="OpenAI GPT-4" />
+    <img src="https://cdn-icons-png.flaticon.com/512/8318/8318195.png" width="48" height="48" alt="AI Chat" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2040/2040946.png" width="48" height="48" alt="Automation" />
+    <img src="https://github.com/n8n-io.png?size=40" width="48" height="48" alt="Automation" />
+    <img src="https://github.com/zapier.png?size=40" width="48" height="48" alt="Automation" />
+    <img src="https://github.com/integromat.png?size=40" width="48" height="48" alt="Automation" />
+  </div>
+
+</td><td valign="top" width="33%">
+
+### 🛠️ Tools & Development Platforms
+
+  <div align="center">  
+    <img src="https://github.com/elementor.png?size=40" width="48" height="48" alt="Elementor" />
+    <img src="https://github.com/mrmad.png?size=40" width="48" height="48" alt="WP Rocket" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+    <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" width="48" height="48" alt="Vercel" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="48" height="48" alt="Netlify" />
+    <img src="https://github.com/Yoast.png?size=40" width="48" height="48" alt="Yoast SEO" />
+    <img src="https://github.com/wp-premium.png?size=40" width="48" height="48" alt="WPML" />
+    <img src="https://ps.w.org/contact-form-7/assets/icon-128x128.png" width="48" height="48" alt="Contact Form 7" />
+  </div>
+
+</td></tr></table>
+
 ## 🏆 GitHub Stats
 <div align="center">
   
-  <table><tr><td valign="top" width="25%">
+  <table><tr><td valign="middle" width="30%">
   
   <img src="https://github-readme-stats.vercel.app/api?username=powdev327&show_icons=true&theme=radical" align="left" style="width: 100%" />
   
-  </td><td valign="top" width="25%">
+  </td><td valign="top" width="30%">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=powdev327&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" align="left" style="width: 100%" />
   
