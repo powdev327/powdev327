@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/email-%23333.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;">
   </a>
   
-  <a href="https://t.me/Eric199747" target="_blank" rel="noopener">
+  <a href="https://t.me/dreamable_coder" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin-bottom: 5px;">
   </a>
 </div>
