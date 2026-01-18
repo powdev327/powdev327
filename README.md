@@ -19,9 +19,9 @@
   <br>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img style="width:100%" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
-</div>
+</div> -->
 ---
 
 
