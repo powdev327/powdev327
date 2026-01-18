@@ -28,8 +28,8 @@
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="250px" height="200px" align="right"/>
 
 ## 🖥️ Skills & Tech Stack
-- **Frontend:** React, SASS/SCSS, Bootstrap, Framer Motion, Next.js, Three.js, Angular
-- **Backend:** Node.js, REST APIs, Express, n8n, Zapier, Make.com
+- **Frontend:** React, SASS/SCSS, Bootstrap, Framer Motion, Next.js, Vue.js, Angular
+- **Backend:** Node.js, REST APIs, Express, Python, Java, n8n, Zapier, Make.com
 - **DevOps:** GitHub Actions, Webpack, Docker
 - **Tooling:** ESLint, Prettier, React Testing Library
 
